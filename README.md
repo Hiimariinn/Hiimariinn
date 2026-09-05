@@ -55,13 +55,12 @@ $$
 ---
 `02 // TECH MATRIX`
 <div align="center">
-    `SYSTEM`	`TOOLS / SIGNALS`
-    `LANG`	Python · C++ · MATLAB
-    `EMBEDDED`	Arduino · ESP32 · Raspberry Pi
-    `FIELDS`	IoT · Embedded Systems · Signal Processing · Electronics
-    `BUILD MODE`	Prototyping · API Integration · Sensor Systems · PCB
-    `CURRENT STATE`	`LEARNING...` `BUILDING...` `DEBUGGING...`
-
+`SYSTEM`	`TOOLS / SIGNALS`
+`LANG`	Python · C++ · MATLAB
+`EMBEDDED`	Arduino · ESP32 · Raspberry Pi
+`FIELDS`	IoT · Embedded Systems · Signal Processing · Electronics
+`BUILD MODE`	Prototyping · API Integration · Sensor Systems · PCB
+`CURRENT STATE`	`LEARNING...` `BUILDING...` `DEBUGGING...`
 </div>
 
 ```text
@@ -87,9 +86,8 @@ reii@reiilabs:~/projects$ ls --featured
 ```
 
 <div align="center">
-    ![writerlabs](https://github-readme-stats.vercel.app/api/pin/?username=Hiimariinn&repo=writerlabs_AI-article-gen&theme=transparent&hide_border=true&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF)
-    ![blockchain](https://github-readme-stats.vercel.app/api/pin/?username=Hiimariinn&repo=mini-blockchain&theme=transparent&hide_border=true&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF)
-
+![writerlabs](https://github-readme-stats.vercel.app/api/pin/?username=Hiimariinn&repo=writerlabs_AI-article-gen&theme=transparent&hide_border=true&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF)
+![blockchain](https://github-readme-stats.vercel.app/api/pin/?username=Hiimariinn&repo=mini-blockchain&theme=transparent&hide_border=true&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF)
 </div>
 
 ---
@@ -115,21 +113,21 @@ NETWORK STATUS
 
 <div align="center">
 
-    ![Website](https://img.shields.io/badge/REII_LABS-000000?style=for-the-badge&logo=googlechrome&logoColor=00D9FF)
-    ![Medium](https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=00D9FF)
-    ![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF)
-    ![Sketchfab](https://img.shields.io/badge/SKETCHFAB-000000?style=for-the-badge&logo=sketchfab&logoColor=00D9FF)
+![Website](https://img.shields.io/badge/REII_LABS-000000?style=for-the-badge&logo=googlechrome&logoColor=00D9FF)
+![Medium](https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=00D9FF)
+![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF)
+![Sketchfab](https://img.shields.io/badge/SKETCHFAB-000000?style=for-the-badge&logo=sketchfab&logoColor=00D9FF)
 </div>
 
 ---
 
 <div align="center">
 
-    ```text
-    ╭──────────────────────────────────────────────────────────────╮
-    │  EOF // THANKS FOR CONNECTING                                │
-    │  next_packet: another experiment, another lesson.            │
-    ╰──────────────────────────────────────────────────────────────╯
-    ```
+```text
+╭──────────────────────────────────────────────────────────────╮
+│  EOF // THANKS FOR CONNECTING                                │
+│  next_packet: another experiment, another lesson.            │
+╰──────────────────────────────────────────────────────────────╯
+```
 `© REII_LABS // HIIMARIINN`
 </div>
