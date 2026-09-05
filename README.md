@@ -139,20 +139,6 @@ I enjoy working across the whole process:
     └── New technologies
 ```
 
----
-
-## `~/stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hiimariinn&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiimariinn&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa" height="165">
-
-</div>
-
----
-
 ## `~/activity`
 
 <div align="center">
