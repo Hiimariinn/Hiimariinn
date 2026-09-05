@@ -84,52 +84,6 @@ If it works, I try to understand *why*.
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square\&logo=linux\&logoColor=white)
 
----
-
-## `~/projects`
-
-> A collection of things I've built to understand how things work.
-
-### `01` — AI Article Generator
-
-**Python · AI · GUI · Hugging Face**
-
-A GUI-based AI article generation project, deployed through Hugging Face.
-
-→ [View repository](https://github.com/Hiimariinn/writerlabs_AI-article-gen)
-
----
-
-### `02` — Mini Blockchain
-
-**Python · Cryptography · Blockchain**
-
-A hands-on implementation created to understand blockchain concepts through code rather than theory.
-
-Includes experiments with:
-
-* Blockchain structure
-* Hashing
-* AES encryption
-* RSA
-* Data security
-
-> *"It's hard to learn just theory. When I code, I understand better."*
-
-→ [View repository](https://github.com/Hiimariinn/mini-blockchain)
-
----
-
-### `03` — Modulation Code
-
-**MATLAB · Signal Processing**
-
-Experiments and implementations related to digital/signal modulation.
-
-→ [View repository](https://github.com/Hiimariinn/Modulation-code)
-
----
-
 ## `~/engineering`
 
 ```text
