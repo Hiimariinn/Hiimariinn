@@ -86,8 +86,10 @@ reii@reiilabs:~/projects$ ls --featured
 ```
 
 <div align="center">
+
 ![writerlabs](https://github-readme-stats.vercel.app/api/pin/?username=Hiimariinn&repo=writerlabs_AI-article-gen&theme=transparent&hide_border=true&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF)
 ![blockchain](https://github-readme-stats.vercel.app/api/pin/?username=Hiimariinn&repo=mini-blockchain&theme=transparent&hide_border=true&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF)
+
 </div>
 
 ---
@@ -96,6 +98,7 @@ reii@reiilabs:~/projects$ ls --featured
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hiimariinn&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&text_color=E6EDF3&icon_color=00D9FF&ring_color=00D9FF" alt="GitHub stats" />
+
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiimariinn&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=E6EDF3" alt="Top languages" />
 
 </div>
@@ -112,11 +115,14 @@ NETWORK STATUS
 `05 // UPLINKS`
 
 <div align="center">
+    
 ![Website](https://img.shields.io/badge/REII_LABS-000000?style=for-the-badge&logo=googlechrome&logoColor=00D9FF)
 ![Medium](https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=00D9FF)
 ![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF)
 ![Sketchfab](https://img.shields.io/badge/SKETCHFAB-000000?style=for-the-badge&logo=sketchfab&logoColor=00D9FF)
+
 </div>
+
 
 ---
 
