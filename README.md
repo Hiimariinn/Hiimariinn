@@ -1,4 +1,4 @@
-![Marin](marinpixel.jpg)
+![Marin](shimarinpixel.jpg)
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 > **"Junior in Everything."**
 
-*Learning things I don't understand — by building them.*
+*asdw asdw sdwa wasd dsaw sawd awds wdsa*
 
 <br>
 
